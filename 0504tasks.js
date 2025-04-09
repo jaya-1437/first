@@ -19,6 +19,7 @@
 //   console.log(isPrime(7)); 
 //   console.log(isPrime(11)); 
 
+git remote set-url origin https://github.com/jaya-1437/first.git
 
 
 
